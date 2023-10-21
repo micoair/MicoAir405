@@ -8,7 +8,7 @@ The BMI088 is a high-performance 6-axis IMU sensor that comes from Bosch®, its 
 
 The MicoAir405 also integrates a high-performance barometer:spl06, and OSD chip: AT7456E, 2 DC-DC channels to provide 5V-3A and 9V-2.5A power output.These characteristics make this controllers particularly suitable for long range FPV drones.
 
-![](./pic/micoair405.png)
+![](./pic/micoair405.jpg)
 
 # Technical Specification
 
@@ -52,7 +52,7 @@ The MicoAir405 also integrates a high-performance barometer:spl06, and OSD chip:
 
 - 1 TF slot
 
-![](./pic/micoair405_ports.png)
+![](./pic/micoair405_ports.jpg)
 
 # Other Characteristics
 - Operating temperature: -40 ~ 85°c
